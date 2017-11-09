@@ -1,0 +1,10 @@
+<Upset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <MetaInformation />
+    <UnityVersion>5.6.0f3</UnityVersion>
+    <PackageName>GitPackage</PackageName>
+    <PackageVersion>0.8.7</PackageVersion>
+    <PackageLicense>Free</PackageLicense>
+    <Configuration>
+        <Spec Type="Base" Path="Assets" />
+    </Configuration>
+</Upset>
